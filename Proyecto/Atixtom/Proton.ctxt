@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Proton
+comment0.text=\n\ @author\ Oscar\ Sixtos\n\ @version\ 03-06-2022\n
+comment1.params=
+comment1.target=Proton()
+comment1.text=\n\ Constructor\ por\ default\ de\ la\ clase\ Proton\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Proton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

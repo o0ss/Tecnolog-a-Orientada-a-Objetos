@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Radiacion
+comment0.text=\n\ @author\ Oscar\ Sixtos\n\ @version\ 03-06-2022\n
+comment1.params=
+comment1.target=Radiacion()
+comment1.text=\n\ Constructor\ por\ default\ de\ la\ clase\ Radiacion\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Radiacion\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ rebota()
+comment3.text=\n\ Hace\ que\ el\ objeto\ rebote\ desde\ el\ borde\ del\ mundo\n
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ParticulaCounter
+comment0.text=\n\ Write\ a\ description\ of\ class\ ParticulaCounter\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=tipo
+comment1.target=ParticulaCounter(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ ParticulaCounter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=score
+comment3.target=void\ update(int)
+comment3.text=\n\ Actualiza\ el\ valor\ del\ contador\ al\ n\u00FAmero\ proporcionado.\n
+numComments=4
